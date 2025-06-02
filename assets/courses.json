@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "name": "React Native Eğitimi",
+      "date": "15 Mart 2025",
+      "type": "Online",
+      "image": "https://images.ctfassets.net/aq13lwl6616q/2gqVi4hhjq9vgvdh63UoKZ/c763c6f7e98a80eb2800bbe5eb9d690d/react_native_zero_to_mastery.png"
+    },
+    {
+      "id": 2,
+      "name": "Full Stack Web Development",
+      "date": "22 Nisan 2025",
+      "type": "Yüz Yüze",
+      "image": "https://geeks4learning.com/wp-content/uploads/2021/06/Basics-for-a-Full-Stack-Web-Developer-1080x675.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Flutter ile Mobil Geliştirme",
+      "date": "5 Mayıs 2025",
+      "type": "Hybrid",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-uzqJpbNiEJEpxgZtVlpK0ksBwgUECTpeAA&s"
+    },
+    {
+        "id": 4,
+        "name": "Python Eğitimi",
+        "date": "18 Ekim 2025",
+        "type": "Online",
+        "image": "https://media.licdn.com/dms/image/v2/D4D12AQGgKjnYU0mUyw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1693994613077?e=2147483647&v=beta&t=NPsWxw9oXt5IiZ8urQ188msw-Hw4Bqm-wye6p2JFZqY"
+    },
+    {
+        "id": 5,
+        "name": "Yapay Zeka Eğitimi",
+        "date": "20 Şubat 2025",
+        "type": "Hybrid",
+        "image": "https://ischoolonline.berkeley.edu/wp-content/uploads/sites/37/2021/01/4430_whatismachinelearning_hero.jpg"
+    },
+    {
+        "id": 6,
+        "name": "UI/UX Eğitimi",
+        "date": "02 Mart 2025",
+        "type": "Yüz Yüze",
+        "image": "https://lh5.googleusercontent.com/proxy/CQObKccMTLZ6qzoKJgzcJ1vHCt9yEkURVMNnvJmyXBDWOEXlUlibCT76iJFV95Yl576Su1CmppHnocFxcBp8i51y0sMEQZ_12Oo"
+    }
+  ]
+  
